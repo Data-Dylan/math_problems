@@ -3,4 +3,4 @@
 
 To view in the proper format, please use the following hyperlinks:
  * [Diagnostic Test - Algebra.ipynb](https://nbviewer.org/github/Data-Dylan/math_problems/blob/main/calculus/Diagnostic%20Test%20-%20Algebra.ipynb)
-* [Diagnostic Test - Analytic Geometery.ipynb](https://nbviewer.org/github.com/Data-Dylan/math_problems/blob/main/calculus/Diagnostic Test - Analytic Geometry.ipynb)
+* [Diagnostic Test - Analytic Geometery.ipynb](https://nbviewer.org/github/Data-Dylan/math_problems/blob/main/calculus/Diagnostic%20Test%20-%20Analytic%20Geometry.ipynb)
