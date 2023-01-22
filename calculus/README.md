@@ -1,4 +1,4 @@
-# Text: Calculus: Single Variable Calculus Early Transcendentals 8th Ed
+## Text: Calculus: Single Variable Calculus Early Transcendentals 8th Ed
 ## Author: James Stewart
 
 To view in the proper format, please use the following hyperlinks:
